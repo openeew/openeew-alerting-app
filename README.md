@@ -6,6 +6,8 @@ Currently, the project is in the early stages of development and is not fit for 
 
 - A React Native application built with the [Expo Framework](https://docs.expo.dev/) using TypeScript
 
+The prototype for application can be found [here](https://ibm.invisionapp.com/share/VCO1QSKF4JA#/screens/320178888_Alerts_Landing).
+
 ## For developers: Setup a development environment
 
 After cloning and navigating to the repository:
